@@ -1,8 +1,8 @@
 {
   "required_api_version": "^2.0.0",
-  "name": "Demo",
-  "description": "Demo extension",
-  "developer_name": "Aleksandr Gornostal",
+  "name": "WizardSearch",
+  "description": "WizardSearch extension",
+  "developer_name": "Cyril Jouhanneau",
   "icon": "images/icon.png",
   "options": {
     "query_debounce": 0.05
@@ -12,7 +12,7 @@
       "id": "demo_kw",
       "type": "keyword",
       "name": "Demo",
-      "default_value": "dm"
+      "default_value": "w"
     },
     {
       "id": "item_name",
